@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: #2E2D88;
+    color: white;
+}
+
+.carousel-caption {
+    top: 5%;
+    bottom: auto;
+    color: black;
+}
